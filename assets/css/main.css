@@ -37,6 +37,10 @@ ol, ul {
 	list-style: none;
 }
 
+.team {
+	max-width: 250px;
+}
+
 blockquote, q {
 	quotes: none;
 }
